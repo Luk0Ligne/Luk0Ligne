@@ -19,18 +19,9 @@
     color: white;
     text-decoration: none;
 }
-.TopElement {
+.MainText {
     text-align: center;
-    padding-top: 7rem;
-}
-.Element{
-    padding: 2rem;
-    text-align: center;
-}
-.BottomElement {
-    padding: 2rem;
-    text-align: center;
-    padding-bottom: 7rem;
+    padding: 1rem;
 }
 .Footer{
     position: fixed;

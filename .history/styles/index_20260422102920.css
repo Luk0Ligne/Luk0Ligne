@@ -19,18 +19,14 @@
     color: white;
     text-decoration: none;
 }
-.TopElement {
+.MainText {
     text-align: center;
+    padding: 1rem;
     padding-top: 7rem;
 }
 .Element{
-    padding: 2rem;
+    padding: 1rem;
     text-align: center;
-}
-.BottomElement {
-    padding: 2rem;
-    text-align: center;
-    padding-bottom: 7rem;
 }
 .Footer{
     position: fixed;
