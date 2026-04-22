@@ -1,0 +1,35 @@
+.NavBar {
+    display: flex;
+    justify-content: space-between;
+    padding: 1.3rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    position: fixed;
+    width: 96%;
+    background: rgb(21, 21, 21);
+    color: white;
+}
+.PageLinks {
+        display: flex;
+        justify-content: space-between;
+        gap: 3rem;
+        
+}
+.Link {
+    color: white;
+    text-decoration: none;
+}
+.MainText {
+    text-align: center;
+    padding-top: 7rem;
+}
+.Element{
+    padding: 2rem;
+    text-align: center;
+}
+.Footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}

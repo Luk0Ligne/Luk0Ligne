@@ -1,0 +1,10 @@
+.NavBar {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+.PageLinks {
+        display: flex;
+        justify-content: space-between;
+        gap: 3rem;
+}
