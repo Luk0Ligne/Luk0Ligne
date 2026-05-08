@@ -55,6 +55,12 @@ body {
     width: 35rem;
     word-wrap: break-word;
     overflow-y:auto;
-    margin-left: 26rem;
-
+    border-color: white;
+    text-align: center;
+}
+.Form {
+    text-align: center;
+    padding-top: 15rem;
+    display: block;
+    
 }

@@ -55,6 +55,6 @@ body {
     width: 35rem;
     word-wrap: break-word;
     overflow-y:auto;
-    margin-left: 26rem;
-
+    border-color: white;
+    text-align: center;
 }
