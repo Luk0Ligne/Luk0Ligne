@@ -51,10 +51,16 @@ body {
     text-align: center;
     padding-bottom: 7rem;
 }
+.Footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
 .box{
     width: 35rem;
-    word-wrap: break-word;
-    overflow-y:auto;
+    overflow-wrap: break-word;
+    border-radius: 5rem;
     border-color: white;
     text-align: center;
 }
