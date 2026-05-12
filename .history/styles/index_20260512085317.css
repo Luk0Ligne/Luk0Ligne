@@ -1,11 +1,14 @@
-
+.Form{
+    text-align: center;
+    padding-top: 15rem;
+    display: block;
+}
 .FormInput{
     max-width: 10rem;
 }
 .GalleryImages{
     max-width: 20rem;
     max-height: 20rem;
-    margin-left: 9rem;
     flex-direction: row;
 }
 .Container{
