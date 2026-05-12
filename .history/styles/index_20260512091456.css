@@ -1,0 +1,17 @@
+
+.FormInput{
+    max-width: 10rem;
+}
+.GalleryImages{
+    max-width: 20rem;
+    max-height: 20rem;
+    margin-left: 9rem;
+    flex-direction: column;
+}
+.Container{
+    display: flex;
+}
+.Container img{
+    padding: 2rem;
+
+}
