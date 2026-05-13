@@ -34,7 +34,7 @@
     text-align: center;
 }
 
-@media only screen and (min-width: 1025px) {
+@media only screen and (min-width: 992px) {
     .GalleryImages{
     max-width: 60%;
     max-height: 60%;
@@ -46,7 +46,18 @@
 .FormInput{
     width:14rem;
     height: 2rem;
+    padding: 1%;
+    text-align: center;
 }
+.FormInputDescription{
+    width:20rem;
+    height: 4rem;
+    padding: 1%;
+    text-align: center;
+    word-wrap: break-word;
+    overflow-y:auto;
+}
+
 .Container{
     display: flex;
     flex-direction: column;
@@ -60,7 +71,11 @@
     font-size: 1rem;
 }
 .box{
+    width: 35rem;
+    word-wrap: break-word;
+    overflow-y:auto;
     padding-left: 26rem;
+    text-align: center;
 }
 
 }

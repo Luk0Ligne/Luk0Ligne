@@ -14,11 +14,7 @@
     word-wrap: break-word;
     overflow-y:auto;
 }
-.FormSubmitButton{
-    width:12rem;
-    height:5rem;
-    font-size: 3rem;
-}
+
 .Container{
     display: flex;
     flex-direction: column;
@@ -26,15 +22,7 @@
 .Container img{
     padding: 2rem;
 }
-.box{
-    width: 35rem;
-    word-wrap: break-word;
-    overflow-y:auto;
-    padding-left: 11rem;
-    text-align: center;
-}
-
-@media only screen and (min-width: 1025px) {
+@media only screen and (min-width: 992px) {
     .GalleryImages{
     max-width: 60%;
     max-height: 60%;
@@ -46,7 +34,18 @@
 .FormInput{
     width:14rem;
     height: 2rem;
+    padding: 1%;
+    text-align: center;
 }
+.FormInputDescription{
+    width:20rem;
+    height: 4rem;
+    padding: 1%;
+    text-align: center;
+    word-wrap: break-word;
+    overflow-y:auto;
+}
+
 .Container{
     display: flex;
     flex-direction: column;
@@ -54,13 +53,4 @@
 .Container img{
     padding: 2rem;
 }
-.FormSubmitButton{
-    width:5rem;
-    height:2rem;
-    font-size: 1rem;
-}
-.box{
-    padding-left: 26rem;
-}
-
 }

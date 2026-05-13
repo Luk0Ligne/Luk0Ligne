@@ -1,0 +1,21 @@
+
+.FormInput{
+    max-width: 10rem;
+    height: 2rem;
+    padding: 1%;
+}
+.GalleryImages{
+    max-width: 60%;
+    max-height: 60%;
+    margin-left: 17rem;
+}
+.GalleryDescription{
+    text-align: center;
+}
+.Container{
+    display: flex;
+    flex-direction: column;
+}
+.Container img{
+    padding: 2rem;
+}

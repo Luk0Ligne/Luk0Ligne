@@ -1,0 +1,33 @@
+
+.FormInput{
+    width:14rem;
+    height: 2rem;
+    padding: 1%;
+    text-align: center;
+}
+.FormInputDescription{
+    width:20rem;
+    height: 4rem;
+    padding: 1%;
+    text-align: center;
+    word-wrap: break-word;
+    overflow-y:auto;
+}
+
+.Container{
+    display: flex;
+    flex-direction: column;
+}
+.Container img{
+    padding: 2rem;
+}
+@media only screen and (min-width: 992px) {
+    .GalleryImages{
+    max-width: 60%;
+    max-height: 60%;
+    margin-left: 17rem;
+}
+.GalleryDescription{
+    text-align: center;
+}
+}
